@@ -1,4 +1,4 @@
-<h1 align="center">CelestialDocs</h1>
+<h1 align="center">CelestialDocs - Security.Semicolon</h1>
 
 <p align="center">
 <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/HYP3R00T/CelestialDocs/deploy.yml?style=for-the-badge&labelColor=363a4f&color=8aadf4">
